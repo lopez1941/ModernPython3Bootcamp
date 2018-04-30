@@ -1,1 +1,11 @@
 test file
+
+
+type(variable_name)- will tell you the type of the variable: string, float, dict, etc.
+
+formatting strings as of Python 3.6
+new way instead of .format is f-strings
+guess = 9
+name = chet
+full = f"sorry {name}, but your guess of {guess} is incorrect"
+
